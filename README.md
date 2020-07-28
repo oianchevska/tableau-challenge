@@ -1,5 +1,8 @@
 # Tableau Challenge - Citi Bike Analytics 2019-2020
 
+## Interactive Version of the Analysis
+
+https://public.tableau.com/profile/oleksandra.ianchevska#!/vizhome/CityBikeReport/CitiBike2019-20Analysis?publish=yes
 
 ##             :bike: Background :bike:
 
@@ -50,6 +53,4 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * This is what will be presented to the officials, so be sure to make it professional, logical, and visually appealing. 
 
-## Interactive Version of the Analysis
 
-https://public.tableau.com/profile/oleksandra.ianchevska#!/vizhome/CityBikeReport/CitiBike2019-20Analysis?publish=yes
