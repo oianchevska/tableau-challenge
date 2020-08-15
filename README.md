@@ -1,6 +1,8 @@
 # Tableau Challenge - Citi Bike Analytics 2019-2020
 
 ## Interactive Version of the Analysis
+https://waghrayrashi-houseprices.herokuapp.com/
+
 
 https://public.tableau.com/profile/oleksandra.ianchevska#!/vizhome/CityBikeReport/CitiBike2019-20Analysis?publish=yes
 
